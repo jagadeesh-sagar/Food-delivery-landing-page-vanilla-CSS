@@ -71,6 +71,9 @@ html {
   percentage of users browser font-size font-feature-settings: ; */
   font-size: 62.5%;
   overflow-x: hidden;
+
+  /*try with javascript  */
+  /* scroll-behavior: smooth; */
 }
 
 body {
