@@ -15,11 +15,14 @@ This project showcases a responsive landing page for a food delivery service, bu
 * HTML5
 * CSS3
 
+## Live Demo
+
+Check out the live demo here: [Food Delivery Landing Page](https://food-delivery-jagadeesh.netlify.app/)
+
 ## Getting Started
 
 1. **Clone the repository:** `git clone https://github.com/your-username/Food-delivery-landing-page-vanilla-CSS.git`
 2. **Open the project:** Navigate to the project directory and open `index.html` in your browser.
-
 
 ## Project Structure
 
@@ -29,7 +32,6 @@ This project showcases a responsive landing page for a food delivery service, bu
     * **`style.css`:**  Main styling for the landing page.
     * **`queries.css`:**  Media queries for responsiveness.
 * **`img/`:** Contains all image assets used on the page.
-
 
 ## Key CSS Concepts Demonstrated
 
@@ -46,7 +48,6 @@ This project showcases a responsive landing page for a food delivery service, bu
 * **Accessibility Improvements:**  Further refine the accessibility of the page by adding ARIA attributes and ensuring proper keyboard navigation.
 * **Cross-Browser Testing:**  Conduct thorough cross-browser testing to ensure consistent rendering across different browsers.
 
-
 ## Contributing
 
-Contributions are welcome!  If you find any bugs or have suggestions for improvements, please feel free to open an issue 
+Contributions are welcome! If you find any bugs or have suggestions for improvements, please feel free to open an issue.
