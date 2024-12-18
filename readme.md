@@ -49,4 +49,4 @@ This project showcases a responsive landing page for a food delivery service, bu
 
 ## Contributing
 
-Contributions are welcome!  If you find any bugs or have suggestions for improvements, please feel free to open an issue or submit a
+Contributions are welcome!  If you find any bugs or have suggestions for improvements, please feel free to open an issue 
